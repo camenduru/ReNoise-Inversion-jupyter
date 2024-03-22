@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ReNoise-Inversion-jupyter/blob/main/ReNoise_Inversion_jupyter.ipynb) | ReNoise_Inversion_jupyter (😭 Pro Colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ReNoise-Inversion-jupyter/blob/main/ReNoise_Inversion_jupyter.ipynb) | ReNoise_Inversion_jupyter (😭 Pro Colab - 18GB VRAM)
 
 ### 🧬 Code
 https://github.com/garibida/ReNoise-Inversion
