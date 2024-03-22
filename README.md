@@ -18,7 +18,7 @@ https://arxiv.org/abs/2403.14602
 https://garibida.github.io/ReNoise-Inversion/
 
 ### 🖼 Output
-
+![Screenshot 2024-03-22 131549](https://github.com/camenduru/ReNoise-Inversion-jupyter/assets/54370274/4bc0e581-e3cb-4fc5-a521-8d6900369366)
 
 ### 🏢 Sponsor
 https://modelslab.com
